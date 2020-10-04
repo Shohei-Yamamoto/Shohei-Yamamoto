@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![Shohei-Yamamoto's github stats](https://github-readme-stats.vercel.app/api?username=Shohei-Yamamoto&theme=monokai&show_icons=true)
+
+
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/Sho-heikun/posts.svg)](http://qiita.com/Sho-heikun) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/Sho-heikun/contributions.svg)](http://qiita.com/Sho-heikun) [![My Qiita followers](https://qiita-badge.apiapi.app/s/Sho-heikun/followers.svg)](http://qiita.com/Sho-heikun)
+
 <!--
 **Shohei-Yamamoto/Shohei-Yamamoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
