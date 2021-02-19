@@ -27,7 +27,10 @@
 |2015/7|TOEIC 910点|
 |2015/9|Android技術者試験ベーシック|
 |2017/12|Python 3 エンジニア認定基礎試験|
+|2018/3|LSM Licensed Scrum Master|
 |2018/7|第一級陸上特殊無線技士|
 |2018/10|MCPC2級|
+|2018/10|LSPO Licensed Scrum Product Owner|
 |2019/4|データベーススペシャリスト|
 |2019/8|OSS-DB silver|
+|2020/3|CSD Certified Scrum Developer|
