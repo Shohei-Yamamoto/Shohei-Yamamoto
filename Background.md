@@ -7,6 +7,7 @@
 |2018/1 ~ 2019/5|Xcode/Swiftによるau HOME iOSアプリ開発|KDDI株式会社|
 |2018/1 ~ 2019/5|Spring Boot/Javaによるau HOME サーバーサイドAPI開発|KDDI株式会社|
 |2020/1 ~ 現在|スクラムマスター  LeSS ランダムペアプロ 効率化の仕組みなどを考える|KDDI株式会社|
+|2020/1 ~|LSM co-trainer|Scrum.inc japan|
 
 
 # 学歴
