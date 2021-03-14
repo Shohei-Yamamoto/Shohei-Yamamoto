@@ -38,3 +38,12 @@
 |2019/4|データベーススペシャリスト|
 |2019/8|OSS-DB silver|
 |2020/3|CSD Certified Scrum Developer|
+
+
+# 登壇歴
+
+|年月|リンク|
+|---|---|
+|2020/12|[スクラムガイド2020！これからのスクラムとの向き合い方とは？ - connpass](https://agile-hiyoko-club.connpass.com/event/197880/) LT1|
+|2021/2|[兼任が多いアジャイルチームをどう回す？ - connpass](https://agile-hiyoko-club.connpass.com/event/201354/) メインスピーカー|
+|2021/2|社内スクラムフェス ランダムペアプロの良さ|
