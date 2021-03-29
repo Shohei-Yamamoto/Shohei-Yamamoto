@@ -4,8 +4,8 @@
 |---|---|---|
 |2016/1 ~ 2017/3|Unity/C#によるゲームアプリ開発 Google App Scriptによる企画・開発支援|PONOS株式会社|
 |2017/4 ~ 2017/12|新入社員研修|KDDI株式会社|
-|2018/1 ~ 2019/5|Xcode/Swiftによるau HOME iOSアプリ開発|KDDI株式会社|
-|2018/1 ~ 2019/5|Spring Boot/Javaによるau HOME サーバーサイドAPI開発|KDDI株式会社|
+|2018/1 ~ 2019/5|Xcode/SwiftによるiOSアプリ開発|KDDI株式会社|
+|2018/1 ~ 2019/5|Spring Boot/JavaによるサーバーサイドAPI開発|KDDI株式会社|
 |2020/1 ~ 現在|スクラムマスター  LeSS ランダムペアプロ 効率化の仕組みなどを考える|KDDI株式会社|
 |2020/1 ~|LSM co-trainer|Scrum.inc japan|
 
