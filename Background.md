@@ -49,6 +49,7 @@
 |2021/2|[兼任が多いアジャイルチームをどう回す？ - connpass](https://agile-hiyoko-club.connpass.com/event/201354/) メインスピーカー|
 |2021/2|社内スクラムフェス ランダムペアプロの良さ|
 |2021/4|[スクラムマスターとしてのメンバーとの関わり方は？ - connpass](https://agile-hiyoko-club.connpass.com/event/209488/) メインスピーカー|
+|2021/5|[【LT増枠】プロジェクトマネジメント Tips LT会 vol.2 #pmtipslt - connpass](https://rakus.connpass.com/event/209858/) LT|
 
 
 # 個人開発
