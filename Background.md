@@ -51,11 +51,17 @@
 |2021/4|[スクラムマスターとしてのメンバーとの関わり方は？ - connpass](https://agile-hiyoko-club.connpass.com/event/209488/) メインスピーカー|
 |2021/5|[【LT増枠】プロジェクトマネジメント Tips LT会 vol.2 #pmtipslt - connpass](https://rakus.connpass.com/event/209858/) LT|
 
+# コミュニティ活動
+
+|年月|リンク|備考|
+|---|---|---|
+|2021/2|https://xpjug.com/xp2021/|XP祭り運営委員会参加|
+|2021/5|https://agile-hiyoko-club.connpass.com/|アジャイルひよこクラブ運営メンバー加入|
+
 
 # 個人開発
 
 |年月|リンク|備考|
 |---|---|---|
 |昔|https://applion.jp/android/app/com.signalyellow.tweetokashi/|大学生の時に確かリリースした。Android/Javaで開発 |
-
 |2021/5|[フォーカスレコーダー ver2](https://apps.apple.com/app/id1451301450)|Swift UIとRealmで開発|
