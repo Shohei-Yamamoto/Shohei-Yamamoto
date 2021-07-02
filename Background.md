@@ -56,4 +56,6 @@
 
 |年月|リンク|備考|
 |---|---|---|
+|昔|https://applion.jp/android/app/com.signalyellow.tweetokashi/|大学生の時に確かリリースした。Android/Javaで開発 |
+
 |2021/5|[フォーカスレコーダー ver2](https://apps.apple.com/app/id1451301450)|Swift UIとRealmで開発|
