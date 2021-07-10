@@ -8,7 +8,7 @@
 |2018/1 ~ 2019/5|Spring Boot/JavaによるサーバーサイドAPI開発|KDDI株式会社|
 |2020/1 ~ 2021/3|スクラムマスター  LeSS ランダムペアプロ 効率化の仕組みなどを考える|KDDI株式会社|
 |2020/1 ~|LSM co-trainer|Scrum.inc japan|
-|2021/4 ~ 現在|エンジニア(モブプロのため特定の技術領域なし)|KDDI株式会社|
+|2021/4 ~ 現在|エンジニア(モブプロのため特定の技術領域なし) iOS/Swift Android/Kotlin SpringBoot/Java (Go) html/javascript AWS/terraform |KDDI株式会社|
 
 
 # 学歴
