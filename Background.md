@@ -38,6 +38,7 @@
 |2018/10|LSPO Licensed Scrum Product Owner|
 |2019/4|データベーススペシャリスト|
 |2019/8|OSS-DB silver|
+|2019/09/29|TOEIC 870 |
 |2020/3|CSD Certified Scrum Developer|
 |2021/7|AWS Solutions Architect Professional|
 
