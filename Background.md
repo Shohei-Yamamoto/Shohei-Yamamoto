@@ -39,6 +39,7 @@
 |2019/4|データベーススペシャリスト|
 |2019/8|OSS-DB silver|
 |2020/3|CSD Certified Scrum Developer|
+|2021/7|AWS Solutions Architect Professional|
 
 
 # 登壇歴
