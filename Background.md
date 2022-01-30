@@ -8,7 +8,8 @@
 |2018/1 ~ 2019/5|Spring Boot/JavaによるサーバーサイドAPI開発|KDDI株式会社|
 |2020/1 ~ 2021/3|スクラムマスター  LeSS ランダムペアプロ 効率化の仕組みなどを考える|KDDI株式会社|
 |2020/1 ~|LSM co-trainer|Scrum.inc japan|
-|2021/4 ~ 現在|エンジニア(モブプロのため特定の技術領域なし) iOS/Swift Android/Kotlin SpringBoot/Java (Go) html/javascript AWS/terraform |KDDI株式会社|
+|2021/4 ~ 2021/12|エンジニア(モブプロのため特定の技術領域なし) iOS/Swift Android/Kotlin SpringBoot/Java Go html/javascript AWS/terraform |KDDI株式会社|
+|2021/1 ~ 2021/1 |エンジニア 監視基準作成　AWS関連|KDDI株式会社|
 
 
 # 学歴
@@ -53,6 +54,7 @@
 |2021/4|アジャイルひよこクラブ|[スクラムマスターとしてのメンバーとの関わり方は？ - connpass](https://agile-hiyoko-club.connpass.com/event/209488/) メインスピーカー|
 |2021/5|ラクス|[【LT増枠】プロジェクトマネジメント Tips LT会 vol.2 #pmtipslt - connpass](https://rakus.connpass.com/event/209858/) LT|
 |2021/6|Scrum Fes Osaka| [Scrum Fest Osaka 2021 - ランダムペアプロのすすめ  ConfEngine - Conference Platform](https://confengine.com/conferences/scrum-fest-osaka-2021/proposal/15335)|
+|2021/10/2|Scrum Fes Mikawa|[Scrum Fest Mikawa 2021 - 部内コミュニティの立ち上げにチャレンジした話 | ConfEngine - Conference Platform](https://confengine.com/conferences/scrum-fest-mikawa-2021/proposal/15959)|
 
 # コミュニティ活動
 
