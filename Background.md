@@ -60,8 +60,8 @@
 
 |年月|リンク|備考|
 |---|---|---|
-|2021/2|https://xpjug.com/xp2021/|XP祭り運営委員会参加|
-|2021/5|https://agile-hiyoko-club.connpass.com/|アジャイルひよこクラブ運営メンバー加入|
+|2021/2|[日本XPユーザグループ 公式サイト](https://xpjug.com/xp2021/)|XP祭り運営委員会参加|
+|2021/5|[アジャイルひよこクラブ](https://agile-hiyoko-club.connpass.com/event/231604/)|アジャイルひよこクラブ運営メンバー加入|
 
 
 # 個人開発
