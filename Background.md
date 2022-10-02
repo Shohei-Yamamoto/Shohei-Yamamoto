@@ -11,7 +11,7 @@
 |2020/1 ~|LSM co-trainer|Scrum.inc japan|
 |2021/4 ~ 2021/12|エンジニア(モブプロのため特定の技術領域なし) iOS/Swift Android/Kotlin SpringBoot/Java Go html/javascript AWS/terraform |KDDI株式会社|
 |2021/1 ~ 2021/1 |エンジニア 監視基準作成　AWS関連|KDDI株式会社|
-|2021/2 ~ 現職| SE Windows PCキッティング、サーバーリプレース、セキュリティチェックなど | KDDI Thailand |
+|2021/2 ~ 現職| SE, Windows PCキッティング、サーバーリプレース、セキュリティチェックなど | KDDI Thailand |
 
 # 学歴
 |年|内容|
