@@ -11,7 +11,7 @@
 |2020/1 ~|LSM co-trainer|Scrum.inc japan|
 |2021/4 ~ 2021/12|エンジニア(モブプロのため特定の技術領域なし) iOS/Swift Android/Kotlin SpringBoot/Java Go html/javascript AWS/terraform |KDDI株式会社|
 |2021/1 ~ 2021/1 |エンジニア 監視基準作成　AWS関連|KDDI株式会社|
-
+|2021/2 ~ 現職| SE Windows PCキッティング、サーバーリプレース、セキュリティチェックなど | KDDI Thailand |
 
 # 学歴
 |年|内容|
@@ -43,6 +43,9 @@
 |2019/09/29|TOEIC 870 |
 |2020/3|CSD Certified Scrum Developer|
 |2021/7|AWS Solutions Architect Professional|
+|2022/5| SASE Expert Level 1 |
+|2022/5|Microsoft Certified: Azure Fundamentals|
+|2022/8|SASE Expert Level 2|
 
 
 # 登壇歴
